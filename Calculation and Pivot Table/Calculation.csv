@@ -1,0 +1,13 @@
+Year,AVERAGE of Total Stock,AVERAGE of Normative Stock (Tonne),AVERAGE of Days of Stock Available,MIN of Days of Stock Available,AVERAGE of Domestic Dependency,AVERAGE of Import Dependency
+2026,5844.12,7084.80,16.16,13.29,52.95%,47.05%
+2025,5932.40,6586.75,15.72,10.09,51.95%,48.05%
+2024,10312.79,15108.94,14.44,9.35,58.46%,41.54%
+2023,10620.71,20398.03,12.30,6.11,64.13%,35.87%
+,,,,,,
+,,,,,,
+,,,,,,
+Risk Category,COUNTA of Calendar Day,,,,,
+Safe,1,,,,,
+Moderate,807,,,,,
+Low Buffer,1631,,,,,
+Critical,34,,,,,
