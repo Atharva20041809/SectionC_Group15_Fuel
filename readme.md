@@ -1,5 +1,3 @@
-hey there 
-
 ---
 
 # **Coal Inventory Optimization & Risk Monitoring Dashboard**
